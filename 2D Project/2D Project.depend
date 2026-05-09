@@ -1,8 +1,6 @@
 # depslib dependency file v1.0
-1776343969 source:c:\users\dell\desktop\college\3rd year\2nd semester\graphics\code practice\computer-graphics-projects\drawing with keyboard interaction\keyboard practice\main.cpp
-	<Gl/glut.h>
-	<math.h>
-	<windows.h>
+1777649012 source:c:\users\dell\desktop\college\3rd year\2nd semester\graphics\code practice\computer-graphics-projects\2d project\main.cpp
+	<GL/glut.h>
 
 1763381584 c:\msys64\mingw64\include\gl\glut.h
 	"freeglut_std.h"
@@ -973,11 +971,4 @@
 
 1774597541 c:\msys64\mingw64\include\gl\glu.h
 	<GL/gl.h>
-
-1774597541 c:\msys64\mingw64\include\math.h
-	<crtdefs.h>
-
-1778156407 source:c:\users\dell\desktop\college\3rd year\2nd semester\graphics\code practice\computer-graphics-projects\drawing with keyboard, mouse, arrow keys interaction\keyboard practice\main.cpp
-	<GL/glut.h>
-	<math.h>
 
